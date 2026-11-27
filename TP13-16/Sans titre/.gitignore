@@ -1,0 +1,4 @@
+# environnement virtuel (il se recrée avec : pip install -r requirements.txt)
+.venv/
+# fichiers compilés automatiquement par Python
+__pycache__/
