@@ -11,6 +11,7 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - *Lisible en texte brut* : le contenu reste compréhensible sans logiciel spécialisé.
 - *Polyvalent* : pratique pour
     - les notes,
+    - les plumes
     - les articles,
     - les rapports et
     - la documentation.
